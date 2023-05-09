@@ -1,4 +1,4 @@
-*{
+I*{
     margin:0;
     padding:0;
     font-family: sans-serif;
@@ -378,4 +378,7 @@ footer{
 footer p{
 	text-align: center;
 	color: #fff;
+}
+
+@media (max-width:768px){
 }
