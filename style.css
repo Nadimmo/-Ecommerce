@@ -471,5 +471,35 @@ footer .foot .foot1 i:hover{
 }
 /*footer end*/
 
+/*Desktop*/
+@media (min-width:1024px){
+
+}
+
+/*Tablet View*/
+@media (min-width:769px) and (max-width:1023px){
+    section div img p a{
+        background-color: tomato;
+    }
+}
+
+
+
+/*Mobile View*/
+@media (max-width:850px)and(min-width:800px){
+    section .product .productBox{
+        width: 78%;
+    }
+    section .product .productBox img a p{
+        width: 84%;
+    }
+    section .footer .ul li{
+        display: block;
+    }
+    section header ul li a{
+        background-color: blue;
+    }
+}
+
 
 
