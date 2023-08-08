@@ -472,96 +472,10 @@ footer .foot .foot1 i:hover{
 /*footer end*/
 
 
-@media  (max-width:768px){
-	header .nav ul li{
-		padding-right: 5px;
-		padding-top: 5px;
+@media screen {
+	body{
+		max-width: 415;
+		max-height:3442 ;
 	}
-	header .logo{
-		margin-left:2px ;
-		margin-top: 2px;
-	}
-	header .nav ul li a{
-		font-size: 10px;
-
-	}
-
-    .container .SearchArea .searchbox i input{
-		width:30px;
-		height: auto;
-
-	}
-	.container .section1Button h1{
-		font-size: 2rem;
-
-	}
-	.container .section1Button h2{
-		font-size: 2rem;
-	}
-	.container .section1Button .btn{
-		width:37%;
-		height: auto;
-	}
-	.container .section1{
-		width:50%;
-		height: auto;
-	}
-	.section1 .img{
-		height: 100px;
-
-	}
-	.productSection .product .productBox{
-		width: 100px;
-        height: auto;
-
-	}
-	.about .aboutBox img{
-		width: 40%;
-        height: auto;
 	
-	}
-	.about .aboutBox h1{
-		font-size: 22px;
-		font-weight: 100;
-	}
-	.about .aboutBox h4{
-		font-size: 13px;
-	}
-	.about .aboutBox p{
-		font-size: 10px;
-	}
-
-	.Notification .NotificationInput{
-		width: 60%;
-	    height: auto;
-		font-size: 9px;
-	}
-	.Notification h1{
-		font-size: 15px;
-	}
-	#footer .foot .foot1{
-		width: 40%;
-		height: auto;
-		font-size: 10px;
-	}
-	#footer .foot .foot1 ul li{
-		list-style: none;
-	}
-	#footer .foot1 h1{
-		font-size: 15px;
-		display: flex;
-	}
-	#footer .foot1  i{
-		font-size: 10px;
-		display: flex;
-	}
-	#footer .foot1 p{
-		font-size: 8px;
-		display: inline;
-		
-	}
-	.p2{
-		font-size: 10px;
-	}
-
 }
