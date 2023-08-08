@@ -474,8 +474,8 @@ footer .foot .foot1 i:hover{
 
 @media screen {
 	body{
-		max-width: 80%;
-		max-height:3442 ;
+		max-width: 100%;
+		max-height:3442px ;
 	}
 	
 }
